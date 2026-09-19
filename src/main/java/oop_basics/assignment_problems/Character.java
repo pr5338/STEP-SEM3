@@ -1,3 +1,4 @@
+package oop_basics.assignment_problems;
 public class Character {
     private final int maxHealth;
     private int currentHealth;
